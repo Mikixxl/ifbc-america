@@ -1050,7 +1050,7 @@
     "nav.standard": "סטנדרט",
     "nav.contact": "יצירת קשר",
     "hero.eyebrow": "פעילות אוצר וסילוק",
-    "hero.title": "משרד הפעילות בארצות הברית עבור IFB International Finance Bank LTD",
+    "hero.title": "המשרד התפעולי בארצות הברית עבור IFB International Finance Bank LTD",
     "hero.sub_1": "IFBC America LLC היא חברה בע\"מ פלורידית, השוכנת ברובע הפיננסי בריקל במיאמי.",
     "hero.sub_2": "ייעודה הוא מנהלי, שמרני ותפעולי: תמיכת אוצר מדויקת, ניהול סילוק ממושמע, וייחוס עסקאות מהימן עבור פעילות מאושרת הקשורה ל-IFB Bank.",
     "about.eyebrow": "אודות החברה",
