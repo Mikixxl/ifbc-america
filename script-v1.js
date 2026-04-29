@@ -361,7 +361,7 @@
     "info.mailing.k": "MORADA POSTAL",
     "info.mailing.v": "848 Brickell Avenue, Penthouse 5, Miami, FL 33131, Estados Unidos",
     "role.eyebrow": "A NOSSA FUNÇÃO",
-    "role.title": "Apoio à tesouraria e à liquidação, definido em sentido estrito",
+    "role.title": "Apoio à tesouraria e à liquidação, estritamente definido",
     "role.lede": "Responsabilidades precisas, deliberadamente delimitadas.",
     "role.intro": "A IFBC America LLC atua como interface administrativa dedicada para as atividades de tesouraria e liquidação relacionadas com a IFB International Finance Bank LTD. A função é de apoio e administrativa, não transacional. Em concreto, a empresa assegura:",
     "func.1": "Identificação de beneficiários e gestão de referências",
