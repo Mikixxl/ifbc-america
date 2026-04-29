@@ -763,7 +763,7 @@
     "role.outro": "職能刻意限定。精準之財務協調,嚴謹之交易管理,清晰之稽核軌跡。不多,不少。",
     "banking.eyebrow": "銀行指示",
     "banking.title": "由貸放機構發出,並非由本辦公室發出",
-    "banking.body": "受益人之銀行明細僅於交易特定授權下方予以揭露。需匯款之交易對手,將於相應交易參考編號下,直接收到 IFB International Finance Bank LTD 之指示。IFBC America LLC 不會獨立於貸放機構而發布、接收或散布銀行指示。",
+    "banking.body": "受益人之銀行明細僅於交易特定授權下才予以揭露。需匯款之交易對手,將於相應交易參考編號下,直接收到 IFB International Finance Bank LTD 之指示。IFBC America LLC 不會獨立於貸放機構而發布、接收或散布銀行指示。",
     "standard.eyebrow": "營運標準",
     "standard.title": "精準即是控制環境",
     "standard.body_1": "IFBC America LLC 採取保守之行政模式營運。於金融業務中,精準並非裝飾。其本身即是控制環境。",
