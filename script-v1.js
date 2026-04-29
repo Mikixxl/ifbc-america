@@ -394,7 +394,7 @@
     "footer.copy": "© 2024-2026 IFBC America LLC. Alle Rechte vorbehalten.",
     "footer.legal": "Rechtlicher Hinweis"
   },
-  "zh-Hant": {
+  "zh-TW": {
     "nav.about": "關於我們",
     "nav.role": "職能",
     "nav.standard": "標準",
@@ -1111,10 +1111,11 @@
   }
 };
 
-  var LANG_CODES = ["en", "de", "fr", "es", "it", "pt", "ru", "zh", "zh-Hant", "ja", "ko", "hi", "ar", "he"];
+  var LANG_CODES = ["en", "de", "fr", "es", "it", "pt", "nl", "pl", "ru", "tr", "zh", "zh-TW", "ja", "ko", "hi", "ar", "he"];
   var LANG_LABELS = {
     "en": "EN", "de": "DE", "fr": "FR", "es": "ES", "it": "IT", "pt": "PT",
-    "ru": "RU", "zh": "中", "zh-Hant": "繁", "ja": "JA", "ko": "KO",
+    "nl": "NL", "pl": "PL", "ru": "RU", "tr": "TR",
+    "zh": "中", "zh-TW": "繁", "ja": "JA", "ko": "KO",
     "hi": "HI", "ar": "AR", "he": "HE"
   };
   var RTL_LANGS = { he: 1, ar: 1 };
@@ -1158,7 +1159,7 @@
     } catch (e) {}
     var nav = (navigator.languages && navigator.languages[0]) || navigator.language || "en";
     var lc = nav.toLowerCase();
-    if (lc.indexOf("zh-tw") === 0 || lc.indexOf("zh-hk") === 0 || lc.indexOf("zh-hant") === 0) return "zh-Hant";
+    if (lc.indexOf("zh-tw") === 0 || lc.indexOf("zh-hk") === 0 || lc.indexOf("zh-hant") === 0) return "zh-TW";
     if (lc.indexOf("zh") === 0) return "zh";
     var prefix = lc.split("-")[0];
     if (TRANSLATIONS[prefix]) return prefix;
