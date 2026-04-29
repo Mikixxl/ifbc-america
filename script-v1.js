@@ -846,7 +846,7 @@
     "contact.email.title": "ご連絡",
     "contact.email.body": "業務関係のすべてのご連絡は <a href=\"mailto:operations@ifbcamerica.com\">operations@ifbcamerica.com</a> へお願いいたします。個別の取引に関する相手方からのお問い合わせは、IFB International Finance Bank LTD が直接対応いたします。",
     "footer.tag": "資金管理および決済 · マイアミ",
-    "footer.copy": "© 2024-2026 IFBC America LLC. All Rights Reserved.",
+    "footer.copy": "© 2024-2026 IFBC America LLC. 無断複製・転載を禁じます。",
     "footer.legal": "法的告知"
   },
   "ko": {
