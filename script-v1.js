@@ -166,7 +166,7 @@
     "info.mailing.k": "ADRESSE POSTALE",
     "info.mailing.v": "848 Brickell Avenue, Penthouse 5, Miami, FL 33131, États-Unis",
     "role.eyebrow": "NOTRE MISSION",
-    "role.title": "Soutien à la trésorerie et au règlement, défini de manière étroite",
+    "role.title": "Soutien à la trésorerie et au règlement, étroitement défini",
     "role.lede": "Des responsabilités précises, délibérément circonscrites.",
     "role.intro": "IFBC America LLC agit comme interface administrative dédiée pour les activités de trésorerie et de règlement liées à IFB International Finance Bank LTD. Sa fonction est de soutien et administrative, non transactionnelle. Concrètement, la société assure :",
     "func.1": "L'identification des bénéficiaires et la gestion des références",
